@@ -1,0 +1,4 @@
+Written with Visual Basic 6
+Can only be changed with Window XP or lower
+Can be installed on higher versions of Windows
+COM  port must be less than 10
